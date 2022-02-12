@@ -1,6 +1,8 @@
-# Meus estudos em C
+# My studies in C
 
-Estudando, atualmente, os livros:
+Currently reading:
 
 - Head First C
 - Computer Systems: A Programmer's Perspective
+
+Hoping to get a good grasp on the fundamentals.
