@@ -1,4 +1,4 @@
-
+#include <stdio.h>
 #include "xor.h"
 
 int main()
