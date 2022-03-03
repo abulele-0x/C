@@ -131,7 +131,7 @@ A função fillArray() recebe como parâmetros:
 	finish agora decrementamos em 1;
 	n decrementamos em 1;
 
-	fillArray(size, array, 1, 5, 3);
+	fillArray(size, array[size][size], start+1, finish-1, n-1);
 
 	Agora o quadrado mais interno será preenchido da mesma forma que o anterior, mas com o número 3.
 	E assim será até que, na chamada da recursão, start seja igual a finish - **significando que chegamos
