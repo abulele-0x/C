@@ -4,14 +4,14 @@ Eu não lembro se esse é o nome mesmo, mas não importa.
 
 O exercício pede, dado um número 'n', seja impresso um padrão. Exemplo: n = 4
 
-4 4 4 4 4 4 4
-4 3 3 3 3 3 4
-4 3 2 2 2 3 4
-4 3 2 1 2 3 4
-4 3 2 2 2 3 4
-4 3 3 3 3 3 4
-4 4 4 4 4 4 4
-
+4 4 4 4 4 4 4  
+4 3 3 3 3 3 4  
+4 3 2 2 2 3 4  
+4 3 2 1 2 3 4  
+4 3 2 2 2 3 4  
+4 3 3 3 3 3 4  
+4 4 4 4 4 4 4  
+  
 O padrão que eu notei, e no qual decidi basear meu algoritmo, foi:
 
 - Formam-se quadrados dentro de quadrados.
